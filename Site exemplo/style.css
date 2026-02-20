@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+    
+}
+
+p{
+    color: blueviolet;
+    width: 20px;
+    padding: 10px;
+    border: 2px;
+    background-color: blueviolet;
+}
