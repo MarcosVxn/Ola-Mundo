@@ -1,16 +1,16 @@
 @charset "UTF-8";
 
-h1{
+h1 {
     text-align: center;
-    color: rgb(0, 0, 0);
 
 }
 
-p{
+.box {
     color: antiquewhite;
-    text-align: left;
     width: 200px;
     padding: 50px;
     background-color: blueviolet;
-    border-radius: 05%;
+    border-radius: 5px;
+    margin: 20px auto;
+    box-sizing: border-box;
 }
